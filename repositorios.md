@@ -30,6 +30,7 @@ Procurando material pra estudar? Saca só esses repositórios: :books:
 - [Data Science e Machine Learning](https://github.com/hmason)
 - [Guia Banco de dados](https://github.com/WoMakersCode/banco-de-dados)
 - [Guia git e github](https://github.com/WoMakersCode/git-e-github)
+- [Repositório com links de materiais gratuitos em pt-br, mantidos por @celycodes](https://github.com/celycodes/cursos-gratuitos)
 
 
 ## Buzzfeed

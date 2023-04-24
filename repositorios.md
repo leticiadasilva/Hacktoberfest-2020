@@ -148,3 +148,4 @@ https://github.com/Rocketseat/awesome)
 ## Cyber security
 
 - [Maratona Hacker](https://github.com/rayanepimentel/maratonaHacker)
+- [Introdução ao Hacking e Pentest 2.0](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2)
